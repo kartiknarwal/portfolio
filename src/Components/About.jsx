@@ -25,7 +25,7 @@ const About = () => {
             Apart from coding I love to deep-dive into other people ideas ,and do
             gym or listen music in my spare time.
           </p>
-          <a href="/Resume.pdf" download className="resume-btn">
+          <a href="../images/Resume.pdf" download className="resume-btn">
             <button>
               Download Resume <FaFileDownload></FaFileDownload>
             </button>
