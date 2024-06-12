@@ -23,6 +23,27 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       "This webpage is made for educational purposes, This behaves like  a dictionary this webapp can also spaek the word for us If we are facing Difficulty in prouncing it..",
     webWordGithub: "https://github.com/kartiknarwal/dictionaryWebapp",
     webWordWebsite: "https://webword.netlify.app/",
+
+    githubProfileDesc:
+     "This website is made to search Gihub Profile of users and also their available github repositories",
+     githubProfileGithub:"https://github.com/kartiknarwal/github_profile_searcher",
+     githubProfileWebsite: "https://gitghub-searcher-profile.netlify.app/",
+
+     textvoiceDesc:
+     "This website is made to prounce english vocubalry in different languages",
+     textvoiceGithub:"https://github.com/kartiknarwal/text_to_speech",
+     textvoiceWebsite:"https://voice-aplhabet.netlify.app/",
+
+     toDoWebDesc:
+     "This website is Manage Your Tasks You can Write down daily task and and then delete them once they are completed .No Worry if You close Your Pc your taks are saved in Your Browser local memory",
+     toDoWebGithub:"https://github.com/kartiknarwal/toDoWebApp",
+     toDoWebWebsite:"https://hustlemanager.netlify.app/",
+
+     gymDesc:
+      "This is Gym Website You can Check Your Bmi Here or If You Want than You can Contact the owner also.",
+      gymGithub:"https://github.com/kartiknarwal/gym-frontend",
+      gymWebsite:"https://narwal-desi-fitness.netlify.app/"
+
   };
 
   return (
