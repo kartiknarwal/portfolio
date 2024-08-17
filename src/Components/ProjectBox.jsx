@@ -42,7 +42,12 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
      gymDesc:
       "This is Gym Website You can Check Your Bmi Here or If You Want than You can Contact the owner also.",
       gymGithub:"https://github.com/kartiknarwal/gym-frontend",
-      gymWebsite:"https://narwal-desi-fitness.netlify.app/"
+      gymWebsite:"https://narwal-desi-fitness.netlify.app/",
+
+      HostelMediaDesc:
+        "This is a social newtorking website made on mern stack You can chat,post reels and pics ",
+        HostelMediaGithub:"https://github.com/kartiknarwal/hostel_media",
+        HostelMediaWebsite:"https://hostel-media.onrender.com/",
 
   };
 

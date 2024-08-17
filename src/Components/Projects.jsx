@@ -12,6 +12,7 @@ import github from "../images/github.png";
 import textvoice from "../images/textvoice.png"
 import toDoweb from "../images/toDoweb.png";
 import gym_Mern from "../images/gym-mern.png";
+import Hostel from "../images/HostelMedia.jpg";
  
 const Projects = () => {
   return (
@@ -28,6 +29,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={textvoice} projectName="textvoice"/>
         <ProjectBox projectPhoto={toDoweb} projectName="toDoWeb"/>
         <ProjectBox projectPhoto={gym_Mern} projectName="gym"/>
+        <ProjectBox projectPhoto={Hostel} projectName="HostelMedia"/>
 
 
 
