@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -318,6 +321,19 @@ button:hover {
   }
 }
 
+
+/* About.css */
+
+
+
+
+
+
+
+
+
+
+
 /* Skills section */
 .skills {
   display: flex;
@@ -369,6 +385,16 @@ button:hover {
     font-size: 50px;
   }
 }
+/* Skills.css */
+
+/* Skills.css */
+
+/* Background and Font Setup */
+
+
+
+
+
 /* Project */
 .projectHeading {
   text-align: center;

@@ -14,10 +14,13 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     ELearnGithub: "https://github.com/kartiknarwal/elearning-frontend",
     ELearnWebsite: "https://elearning-kartiknarwal.vercel.app/",
 
-    notesSavingDesc:
-      "This website helps you save You Thoughts in form of notes  and save your notes.The project helped me understand Javascript more deeply using advance techniques",
-    notesSavingGithub: "https://github.com/kartiknarwal/notes_app",
-    notesSavingWebsite: "https://notes-saving.netlify.app/",
+
+    RealTimeCodeEditorDesc:
+    "This is a real time code editor which helps you to write code on differnt screens and also to execute the code ",
+    RealTimeCodeEditorGithub:"https://github.com/kartiknarwal/realtime_code_editor",
+    RealTimeCodeEditorWebsite:"https://realtime-code-editor-3-zw8e.onrender.com/",
+
+
 
     webWordDesc:
       "This webpage is made for educational purposes, This behaves like  a dictionary this webapp can also spaek the word for us If we are facing Difficulty in prouncing it..",
@@ -48,6 +51,14 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
         "This is a social newtorking website made on mern stack You can chat,post reels and pics ",
         HostelMediaGithub:"https://github.com/kartiknarwal/hostel_media",
         HostelMediaWebsite:"https://hostel-media.onrender.com/",
+
+        notesSavingDesc:
+        "This website helps you save You Thoughts in form of notes  and save your notes.The project helped me understand Javascript more deeply using advance techniques",
+      notesSavingGithub: "https://github.com/kartiknarwal/notes_app",
+      notesSavingWebsite: "https://notes-saving.netlify.app/",
+  
+
+
 
   };
 

@@ -13,6 +13,8 @@ import textvoice from "../images/textvoice.png"
 import toDoweb from "../images/toDoweb.png";
 import gym_Mern from "../images/gym-mern.png";
 import Hostel from "../images/HostelMedia.jpg";
+import RealTimeCode from "../images/real-time.png";
+
  
 const Projects = () => {
   return (
@@ -23,13 +25,16 @@ const Projects = () => {
       <div className="project">
         <ProjectBox projectPhoto={GeminiImage} projectName="GeminiClone" />
         <ProjectBox projectPhoto={eLearn} projectName="ELearn" />
-        <ProjectBox projectPhoto={notesSaving} projectName="notesSaving" />
+        <ProjectBox projectPhoto={RealTimeCode} projectName="RealTimeCodeEditor"/>
+
         <ProjectBox projectPhoto={webWord} projectName="webWord" />
         <ProjectBox projectPhoto={github} projectName="githubProfile"/>
         <ProjectBox projectPhoto={textvoice} projectName="textvoice"/>
         <ProjectBox projectPhoto={toDoweb} projectName="toDoWeb"/>
         <ProjectBox projectPhoto={gym_Mern} projectName="gym"/>
         <ProjectBox projectPhoto={Hostel} projectName="HostelMedia"/>
+        <ProjectBox projectPhoto={notesSaving} projectName="notesSaving" />
+
 
 
 
